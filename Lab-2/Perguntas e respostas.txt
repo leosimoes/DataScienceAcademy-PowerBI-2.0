@@ -1,0 +1,38 @@
+1. Qual o gasto total da operadora?
+17,68 Mi
+
+2. Qual a idade média dos usuários da operadora?
+39 anos
+
+3. Qual o gasto médio por região?
+sul: 14786,14
+norte: 13.408,21
+nordeste: 12.417,58
+sudeste: 12.268,34
+
+4. Qual faixa etária possui maior gasto com seguro saúde por região?
+sul: 43 anos
+norte: 18 anos
+nordeste: 19 anos 
+sudeste: 19 anos
+
+5. Crianças tem gasto maior que adultos?
+Não é possível responder com os dados (idades >= 18).
+
+6. Qual a proporção de crianças por região?
+Não é possível responder com os dados (idades >= 18).
+
+7. O aumento da idade influencia no imc?
+Sim
+
+8. Quem tem maior gasto, homens ou mulheres?
+Homens
+
+9. Se o usuário for mulher, o imc é acima ou abaixo da média?
+Abaixo
+
+10.Se for homem, com mais de 50 anos e da região Sudeste, o gasto é 
+maior ou menor que a média de gastos da região?
+Menor
+
+
