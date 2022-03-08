@@ -1,0 +1,8 @@
+Perguntas
+1 - Qual a Correlação Entre os Atributos dos Funcionários?
+2 - Qual o Tempo de Serviço da Maioria dos Funcionários?
+3 - Qual Avaliação do Ano Anterior Foi Mais Comum?
+4 - Qual a Distribuição das Idades dos Funcionários?
+5 - Qual o Número de Treinamentos Mais Frequente?
+6 - Qual a Proporção dos Funcionários Por Canal de Recrutamento?
+7 - Qual a Relação Entre a Promoção e a Avaliação do Ano Anterior?
