@@ -1,9 +1,6 @@
 # Microsoft Power BI Para Data Science
 Atividades do curso Microsoft Power BI Para Data Science, Versão 2.0, da Data Science Academy.
 
-https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
-
-
 ## Projetos
 - Estudo de Caso 1 - Dashboard de Vendas
 - Estudo de Caso 2 - Dashboard de Suporte de Vendas
@@ -19,11 +16,10 @@ https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-scienc
 - Mini-Projeto 3 - Dashboard de Análise de RH usando Python
 
 ## Arquivos
-Formato dos dados
-
-Resultados
-
-![printTela](./printscreens/WebPageBrPopulation.jpg)
+As pastas dos projetos contém arquivos .pbix dos dashboards, e imagens em arquivos .png dos dashboards e dos formatos de dados.
+Os arquivos de fontes de dados não se encontram no diretório.
+Para reproduzir os dashboards é necessário fazer o download dos arquivos de dados no site do curso e configurar as fontes de dados.
 
 
 ## Referências
+https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
